@@ -52,7 +52,6 @@ window.addEventListener("load", () => {
         heroText.style.transform =
         "translateY(20px)";
 
-
         setTimeout(() => {
 
             heroText.style.transition =
